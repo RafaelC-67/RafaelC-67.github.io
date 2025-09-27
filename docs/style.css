@@ -105,6 +105,45 @@ body {
   text-align: center;
 }
 
+.form-control {
+  border-radius: 80px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 1000px;
+  height: 50px;
+  margin-top: 6rem;
+  margin-left: 2rem;
+  background-color: #000000;
+  padding: 5px;
+}
+
+.form {
+  border-radius: 80px;
+  padding: 10px;
+  width: 99%;
+  HEIGHT: 48px;
+}
+
+
+
+.btul{
+  border-radius: 80px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-left: 65rem;
+  margin-top: -3rem;
+  width: 100px;
+  height: 50px;
+}
+
+.menubtn{
+  color: white;
+  width: 50px;
+  height: 50px;
+}
+
 /* CONTENT */
 .inform {
   justify-content: center;
@@ -277,6 +316,10 @@ td {
   padding-bottom: 20px;
 }
 
+.followus>h2>a{
+  color: white;
+}
+
 .butt {
   background-color: rgb(0, 0, 0);
   text-align: center;
@@ -311,8 +354,8 @@ td {
 
 .content>h2 {
   display: flex;
-  justify-content: left;
-  text-align: left;
+  justify-content: center;
+  text-align: center;
   padding: 2rem;
   margin: 1rem;
 }
@@ -395,6 +438,7 @@ td {
 .maineg>h1 {
   padding-top: 5rem;
   margin-top: 4rem;
+  
 }
 
 .maineg>h6 {
